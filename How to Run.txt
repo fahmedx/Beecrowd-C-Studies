@@ -1,0 +1,11 @@
+Go to the folder of file
+
+To compile:
+mcs -out:<Name>.exe <Name>.cs
+
+To run the app:
+mono <Name>.exe
+
+
+To decompile:
+monodis --output=decompiled-hello.txt hello.exe
