@@ -1,7 +1,6 @@
 using System; 
 
 class URI {
-
     static void Main(string[] args) { 
         int a,b,PROD;
         a = Convert.ToInt32(Console.ReadLine());
